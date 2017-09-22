@@ -1,0 +1,47 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+<?php $this->load->view('templates/header_open'); ?>
+<?php $this->load->view('templates/header_close'); ?>
+        <!-- Container -->
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1 class="underscore">Terms and Conditions</h1>
+                    <h3>General</h3>
+                    <p>This page tells you the terms and conditions on which we supply any of the products (‘Products’) listed on our website or any of the other sites through which we supply Products or services. By ordering any of our Products and services you agree to be bound by these terms and conditions.</p>
+                    <p>You should print a copy of these terms and conditions for future reference.</p>
+                    <h3>About Us</h3>
+                    <p>We are Votion Art, a company in England with our office at The Guild, High Street, Bath, Somerset, BA1 5EB, United Kingdom.</p>
+                    <h3>Making a contract with us</h3>
+                    <p>By placing an order through our site, you warrant that you are legally capable of entering into binding contracts and that you are at least 18 years old.</p>
+                    <h3>How the contract is formed between you and us</h3>
+                    <p>After placing an order, you will receive an e-mail from us acknowledging that we have received your order. Please note that this does not mean that your order has been accepted. Your order constitutes an offer to us to buy a Product. All orders are subject to acceptance by us, and we will confirm such acceptance to you by sending you an e-mail that confirms that the Product has been dispatched (Dispatch Confirmation). The contract between us (Contract) will only be formed when we send you the Dispatch Confirmation.</p>
+                    <p>The Contract will relate only to those Products whose dispatch we have confirmed in the Dispatch Confirmation. We will not be obliged to supply any other Products which may have been part of your order until the dispatch of such Products has been confirmed in a separate Dispatch Confirmation.</p>
+                    <h3>Consumer Rights</h3>
+                    <p>If you are contracting as a consumer, you may cancel a Contract at any time within 7 working days, beginning on the day after you received the Products. In this case, you will receive a full refund of the price paid for the Products in accordance with our refunds policy (set out in our Returns Policy below).</p>
+                    <p>To cancel a Contract, you must inform us in writing. You must also return the Products to us immediately, in the same condition in which you received them, and at your own cost and risk. You have a legal obligation to take reasonable care of the Products while they are in your possession. If you fail to comply with this obligation, we may have a right of action against you for compensation.</p>
+                    <h3>Availability and Deliverability</h3>
+                    <p>Your order will be fulfilled by the delivery date set out in the Dispatch Confirmation or, if no delivery date is specified, then within 30 days of the date of the Dispatch Confirmation, unless there are exceptional circumstances.</p>
+                    <h3>Risk and title</h3>
+                    <p>The Products will be at your risk from the time of delivery. Ownership of the Products will only pass to you when we receive full payment of all sums due in respect of the Products, including delivery charges.</p>
+                    <h3>Price and Payment</h3>
+                    <p>The price of the Products and our delivery charges will be as quoted on our site from time to time, except in cases of obvious error. Product prices include VAT. Product prices and delivery charges are liable to change at any time, but changes will not affect orders in respect of which we have already sent you a Dispatch Confirmation.</p>
+                    <p>Our site contains a large number of Products and it is always possible that, despite our best efforts, some of the Products listed on our site may be incorrectly priced. We will normally verify prices as part of our dispatch procedures so that, where a Product’s correct price is less than our stated price, we will charge the lower amount when dispatching the Product to you. If a Product’s correct price is higher than the price stated on our site, we will normally, at our discretion, either contact you for instructions before dispatching the Product, or reject your order and notify you of such rejection. We are under no obligation to provide the Product to you at the incorrect (lower) price, even after we have sent you a Dispatch Confirmation, if the pricing error is obvious and unmistakeable and could have reasonably been recognised by you as an error.</p>
+                    <p>Payment for all Products must be by credit/debit card or other method as available on our web site. We accept payment by Mastercard, Visa, American Express, Maestro, Visa Electron and Visa Delta. We will not charge your credit or debit card until we dispatch your order.</p>
+                    <h3>Returns</h3>
+                    <p>Returns will not be accepted unless we have been notified in advance and within 30 days of receipt of goods, by emailing info@votion-art.co.uk If you return a Product to us:-</p>
+                    <ol>
+                        <li>Because you have cancelled the Contract between us within the 7-day cooling-off period (see clause ‘Consumer Rights’ above), we will process the refund due to you as soon as possible and, in any case, within 30 days of the day you gave notice of cancellation. In this case, we will refund the price of the Product in full, and any applicable delivery charges. For all orders you will be responsible for the cost of returning the item to us.</li>
+                        <li>For any other reason (for instance, because you have notified us that you do not agree to a change in these terms and conditions or in any of our policies, or because you consider that the Product is defective), we will examine the returned Product and will notify you of your refund via e-mail within a reasonable period of time. We will usually process the refund due to you as soon as possible and, in any case, within 30 days of the day we confirmed to you via e-mail that you were entitled to a refund. We will refund the price of a defective Product in full, any applicable delivery charges and any reasonable costs you incur in returning the item to us.</li>
+                    </ol>
+                    <p>We will usually refund any money received from you using the same method originally used by you to pay for your purchase. Purchases for business are excluded from the 30-day return policy, no such goods will be accepted for return unless faulty or damaged. Refund of ‘returned Products’ lost in transit will not be considered unless proof of posting is supplied.</p>
+                    <h3>Damage/Non-delivery</h3>
+                    <p>Claims for damage must be made within 3-days of receipt of goods. Damaged product and packaging must be retained in case of inspection by our carriers. Please photograph the product/packaging as soon as possible and email photos to info@votion-art.co.uk. Claims of non-delivery must be made within 28-days of despatch.</p>
+                    <h3>Corrections</h3>
+                    <p>Descriptions of goods and services included in the Votion Art site are accurate to the best of our knowledge. We do our best to correct errors or omissions as soon as we are aware of them. However, you should be aware that the colours and appearance of images, mounts and frames may vary very slightly from the way they appear on the screen. Also print sizes can vary slightly between production batches. For this reason, we strongly recommend that you wait to receive your unframed prints before committing to third-party frames. If you need to know the precise dimensions of a product, please contact us.</p>
+                    <h3>Copyright</h3>
+                    <p>The images and designs used on the Votion Art website are the property of Votion Art or their respective copyright owners, and are used by Votion Art pursuant to express authorisation from copyright owners or their agents. All copyright, trademarks and other intellectual property rights in and relating to Votion Art are vested in Votion Art or our partners where appropriate. You must not reproduce, modify or distribute our images or any part of those images in any manner, whatsoever. In the event that there is any dispute between us in relation to this issue, you agree that until the matter is resolved, an interim injunction will be an appropriate remedy. An Interim injunction is a court order, which would prevent any further use or distribution of the image that we are concerned about, until a final court hearing where the court will make a decision on all the facts.</p>
+                </div>
+            </div>
+        </div><!--/.Container -->
+<?php $this->load->view('templates/footer_open'); ?>
+<?php $this->load->view('templates/footer_close'); ?>
